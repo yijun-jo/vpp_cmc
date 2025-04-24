@@ -1,5 +1,5 @@
 # Lunatic data processing
-This folder contains codes to process lunatic reports. Example data is provided in folder "example_data" or "params_raw" for testing the code. An "output" folder is also available for demonstration purpose. 
+This folder contains codes to process lunatic reports. Example data is provided in folder "example_data" for testing the code.
 
 1. lunatic_clean_data_single.ipynb <br>
 Processes lunatic report with both "Concentration (mg/mL)" and wavelength scanning results. The code takes in one excel report at a time and generates one "concentration.csv" and one "wavelength_scan.csv" in the end. 
